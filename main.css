@@ -1,7 +1,7 @@
 body {
     background: linear-gradient(300deg, #f8c7cc, #81a684, #57886c, #466060);
     background-size: 240% 240%;
-    animation: gradient-animation 25s ease infinite;
+    animation: gradient-animation 30s ease infinite;
 }
 
 .header h2 {
